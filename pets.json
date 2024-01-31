@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Rockie",
+      "type": "Cat",
+      "age": 3
+    },
+    {
+      "id": 2,
+      "name": "Lucky",
+      "type": "Dog",
+      "age": 2
+    },
+    {
+      "id": 3,
+      "name": "Clinton",
+      "type": "Cat",
+      "age": 5
+    },
+    {
+      "id": 4,
+      "name": "Maxy",
+      "type": "Dog",
+      "age": 4
+    },
+    {
+      "id": 5,
+      "name": "Mint",
+      "type": "Cat",
+      "age": 1
+    },
+    {
+      "id": 6,
+      "name": "Rock",
+      "type": "Dog",
+      "age": 3
+    },
+    {
+      "id": 7,
+      "name": "Smoka",
+      "type": "Cat",
+      "age": 6
+    },
+    {
+      "id": 8,
+      "name": "Charly",
+      "type": "Dog",
+      "age": 2
+    },
+    {
+      "id": 9,
+      "name": "Jewel",
+      "type": "Cat",
+      "age": 4
+    },
+    {
+      "id": 10,
+      "name": "Creepy",
+      "type": "Dog",
+      "age": 5
+    },
+    {
+      "name": "Tinny",
+      "age": 2,
+      "type": "Bird",
+      "id": 11
+    }
+  ]
